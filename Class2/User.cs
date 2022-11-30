@@ -49,7 +49,7 @@ namespace Class2
                     {
                         a = true;
                     }
-                    while (num == 0)
+                    while (num != 0)
                     {
                         if (value[i] == num)
                         {
