@@ -1,0 +1,15 @@
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\bin\Debug\net6.0\Class2.exe
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\bin\Debug\net6.0\Class2.deps.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\bin\Debug\net6.0\Class2.runtimeconfig.json
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\bin\Debug\net6.0\Class2.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\bin\Debug\net6.0\Class2.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\Class2.csproj.AssemblyReference.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\Class2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\Class2.AssemblyInfoInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\Class2.AssemblyInfo.cs
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\Class2.csproj.CoreCompileInputs.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\Class2.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\refint\Class2.dll
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\Class2.pdb
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\Class2.genruntimeconfig.cache
+C:\Users\Aykhan\OneDrive\Desktop\HT\Class2\Class2\obj\Debug\net6.0\ref\Class2.dll
